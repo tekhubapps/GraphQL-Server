@@ -1,21 +1,19 @@
-# React Native Redux
+# GraphQL + MongoDB
 
-1. Redux integation in React Native.
-2. Webservice integration using axios.
-3. FlatList integration in React Native 
+This is express app which contains GraphQL integrated with MongoDB.
 
 <!-- [Tutorial Video](https://youtu.be/DR1d62NpJw0) -->
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/tekhubapps/Redux-FlatList.git
+git clone https://github.com/tekhubapps/GraphQL-Server.git
 ```
 
 ## Install node modules
 
 ```bash
-cd Redux-FlatList
+cd GraphQL-Server
 ```
 ```bash
 npm install
@@ -24,13 +22,9 @@ npm install
 ## Run Application
 
 ```bash
-npm start
+node app.js
 ```
-Open new Terminal
-```bash
-react-native run-ios
-``` 
-Open new Terminal
-```bash
-react-native run-android
-``` 
+
+## Open graphiql page
+
+[Local graphiql querying page] (http://localhost:4000/graphql)
