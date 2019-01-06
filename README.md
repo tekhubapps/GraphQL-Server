@@ -2,7 +2,7 @@
 
 This is express app which contains GraphQL integrated with MongoDB.
 
-<!-- [Tutorial Video](https://youtu.be/DR1d62NpJw0) -->
+[Tutorial Video](https://www.youtube.com/playlist?list=PLyJBAy6FbNLKEq3E7-IDTeDak4G6PX4gv)
 
 ## Clone Repository
 
