@@ -27,4 +27,4 @@ node app.js
 
 ## Open graphiql page
 
-[Local graphiql querying page] (http://localhost:4000/graphql)
+[Local graphiql querying page](http://localhost:4000/graphql)
